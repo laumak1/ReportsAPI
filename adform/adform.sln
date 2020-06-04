@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "adform", "adform\adform.csproj", "{31A8633D-60D1-4CA9-94DE-CAE45847805E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{ECBF0A84-3337-405D-BB6E-C6607D5AAB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A8633D-60D1-4CA9-94DE-CAE45847805E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A8633D-60D1-4CA9-94DE-CAE45847805E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A8633D-60D1-4CA9-94DE-CAE45847805E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A8633D-60D1-4CA9-94DE-CAE45847805E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBF0A84-3337-405D-BB6E-C6607D5AAB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBF0A84-3337-405D-BB6E-C6607D5AAB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBF0A84-3337-405D-BB6E-C6607D5AAB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBF0A84-3337-405D-BB6E-C6607D5AAB61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FDDDCE-4E71-4CF6-B555-C5F36D80B97A}
+	EndGlobalSection
+EndGlobal
